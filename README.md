@@ -19,5 +19,12 @@ You can change the video capture device by changing the cv2.VideoCapture(0).
 Start the game first and run a test match to check if everything is working, then you can can start the program and play it.
 
 
+Resources that i used:
+
+https://www.youtube.com/watch?v=brwgBf6VB0I
+
+https://www.youtube.com/watch?v=1RE5tSPO2RI
+
+
 Kushal N 9th B
 JNV Bangalore Urban
