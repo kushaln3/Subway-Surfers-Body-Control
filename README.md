@@ -11,7 +11,7 @@ Packages used:
   time,
   mediapipe
   
-  Video Demo: 
+  Video Demo: https://youtu.be/yzSGUDhSKug
 
 Install Latest Python 3 and the above mentioned packeges.
 Run the main.py file.
